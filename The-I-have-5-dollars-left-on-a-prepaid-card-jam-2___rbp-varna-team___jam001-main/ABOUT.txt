@@ -1,0 +1,11 @@
+27.11.2020 - 29.11.2020 GameDev Jam
+
+Me and my former coleagues from Robopartans Varna took part in a nice litle GameDev Jam.
+The topic was "Roll"
+
+We splitted into two teams.
+The content here is the product of our 2nd team's work and imagination.
+Our idea was to make a rolling mage game.
+The mage has several abilities and tries to find all kinds of enemies.
+After every level the mage completes, there is a dice roll.
+The result of the dice then enhances your abilities.
